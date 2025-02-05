@@ -60,3 +60,23 @@ The **Gym Management System Website** is a web application designed to enhance g
    $username = "root";
    $password = "";
    $dbname = "gym_management";
+
+###Key Pages
+
+1. Index Page
+Displays gym services overview.
+Includes navigation links for login and signup.
+
+2. User Pages
+Login: User authentication form.
+Signup: Registration form for new members.
+Dashboard: Displays membership details, workout plans, and progress.
+
+##3. Trainer Pages
+Dashboard: Tracks assigned members and their progress.
+Workout Plans: Manage workout plans and schedules.
+
+4. Admin Pages
+Dashboard: Displays gym analytics and system status.
+User Management: Add, edit, or remove members and trainers.
+
