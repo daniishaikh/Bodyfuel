@@ -61,7 +61,7 @@ The **Gym Management System Website** is a web application designed to enhance g
    $password = "";
    $dbname = "gym_management";
 
-###Key Pages
+Key Pages
 
 1. Index Page
 Displays gym services overview.
@@ -72,7 +72,7 @@ Login: User authentication form.
 Signup: Registration form for new members.
 Dashboard: Displays membership details, workout plans, and progress.
 
-##3. Trainer Pages
+3. Trainer Pages
 Dashboard: Tracks assigned members and their progress.
 Workout Plans: Manage workout plans and schedules.
 
