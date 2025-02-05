@@ -39,7 +39,7 @@ The **Gym Management System Website** is a web application designed to enhance g
 
 ### **Additional Tools**
 - SQL for database queries
-- Ajax for asynchronous data updates
+- Third Party Fonts and icons
 
 ---
 
