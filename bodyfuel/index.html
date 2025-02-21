@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('breadcrumb-bg4.jpg'); /* Replace 'background-image.jpg' with your actual image file path */
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        .logo {
+            margin-bottom: 20px;
+        }
+
+        .login-option {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .login-option:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="logo.png" alt="Logo"> <!-- Replace 'logo.png' with your actual logo file path -->
+        </div>
+        <h2>Select Your Login</h2>
+        <a href="admin/template/login.php" class="login-option">Admin</a>
+        <a href="trainer/template/login.php" class="login-option">Trainer</a>
+        <a href="user/index1.php" class="login-option">User</a>
+    </div>
+</body>
+</html>
