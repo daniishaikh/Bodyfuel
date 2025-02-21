@@ -1,7 +1,7 @@
 # Bodyfuel - Gym Management System Website
 
 ## Project Overview
-The **Gym Management System Website** is a web application designed to enhance gym operations and improve user experiences for members, trainers, and administrators. Members can sign up, manage memberships, view workout plans, and more, while trainers and administrators can track and manage gym activities efficiently.
+The **Gym Management System Website** is a webaite designed to enhance gym operations and improve user experiences for members, trainers, and administrators. Members can sign up, manage memberships, view workout plans, and more, while trainers and administrators can track and manage gym activities efficiently.
 
 ---
 
